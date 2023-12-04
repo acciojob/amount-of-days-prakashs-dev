@@ -4,5 +4,5 @@ function daysOfAYear(year) {
 	    return 366;
 	return 365;
 }
-// const year = Number(prompt("Enter a year"));
-// alert(daysOfAYear(year));
+const year = Number(prompt("Enter a year"));
+alert(daysOfAYear(year));
